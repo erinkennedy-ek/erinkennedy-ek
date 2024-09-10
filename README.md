@@ -9,8 +9,8 @@ Hi there 👋, I'm Érin Kennedy!
     📚 Current Study: Master’s in Data Analytics.
     💼 Skills: Python, SQL, PLSQL, R, Data Visualisation, Machine Learning, Statistical Analysis, and Business Intelligence.
     🌍 Location: Ireland.
-    🌱 I’m currently working on improving my skills in advanced analytics, predictive modeling, and data science projects.
-    🔗 [LinkedIn](https://www.linkedin.com/in/%C3%A9rin-kennedy-2a1389205/)
+    🌱 I’m currently working on improving my skills in advanced analytics, predictive modelling, and data science projects.
+    🔗 [**LinkedIn Profile**](https://www.linkedin.com/in/%C3%A9rin-kennedy-2a1389205/)
 
 
 <!---
