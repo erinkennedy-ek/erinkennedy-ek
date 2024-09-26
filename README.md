@@ -6,7 +6,7 @@ Hi there 👋, I'm Érin Kennedy!
 🔍 About Me:
 
     🎓 Bachelor's Degree: First Class Honours in Business.
-    📚 Current Study: Master’s in Data Analytics.
+    📚 Master’s Degree: First Class Honours in Data Analytics.
     💼 Skills: Python, SQL, PLSQL, R, Data Visualisation, Machine Learning, Statistical Analysis, and Business Intelligence.
     🌍 Location: Ireland.
     🌱 I’m currently working on improving my skills in advanced analytics, predictive modelling, and data science projects.
