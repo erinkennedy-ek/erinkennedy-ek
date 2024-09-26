@@ -1,6 +1,6 @@
 Hi there 👋, I'm Érin Kennedy!
 
-🌟 I'm a Business (Hons) graduate with First Class Honours, currently pursuing a Master’s degree in Data Analytics.
+🌟 I'm a Business (Hons) and MSc Data Analytics graduate with First Class Honours.
 📊 Passionate about transforming data into actionable insights.
 🚀 Excited to apply data-driven decision-making to real-world business problems.
 🔍 About Me:
